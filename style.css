@@ -1,0 +1,28 @@
+head,body {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    list-style-position: inside;
+}
+
+hr{
+    margin-left: -100px;
+    margin-right: -100px;
+}
+
+h1,h2,h4,a {
+    color: #84513e;
+}
+
+p,li {
+    text-align: justify;
+    color: #F1AB86;
+}
+
+.info {
+    background-color: #F1AB86
+}
+
+body {
+    background-color:rgba(12, 12, 12, 0.979)
+}
